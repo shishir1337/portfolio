@@ -33,9 +33,9 @@ const Contact = () => {
         "template_3d_portfolio",
         {
           from_name: form.name,
-          to_name: "Shishir",
+          to_name: "Md. Shishir Ahmed",
           from_email: form.email,
-          to_email: "support@shishir1337.com",
+          to_email: "shishirdevilzz@gmail.com",
           message: form.message,
         },
         "fCcq6ZkspCv-zcKG5"
